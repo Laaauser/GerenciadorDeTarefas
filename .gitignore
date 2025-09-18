@@ -1,1 +1,10 @@
+# Ignore IDE files
+.idea/
+*.iml
+
+# Ignore class files
+*.class
+
+# Ignore logs
+*.log
 
